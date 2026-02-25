@@ -1,0 +1,18 @@
+# File Organizer CLI Tool - Requirements
+# No external dependencies - uses Python standard library only!
+# 
+# This tool requires:
+# - Python 3.7 or higher
+#
+# Standard library modules used:
+# - os: Low-level operating system operations
+# - shutil: High-level file operations
+# - logging: Application logging framework
+# - pathlib: Object-oriented filesystem paths
+# - typing: Type hints for better code clarity
+# - datetime: Date and time handling
+# - json: JSON file I/O for operation logs
+# - argparse: Command-line argument parsing
+#
+# Installation:
+# Simply ensure Python 3.7+ is installed. No pip packages required!

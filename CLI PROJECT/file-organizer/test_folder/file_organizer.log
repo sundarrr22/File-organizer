@@ -1,0 +1,23 @@
+2026-02-25 17:21:50 - FileOrganizer - INFO - Starting file organization in: test_folder
+2026-02-25 17:21:50 - FileOrganizer - INFO - DRY RUN MODE - No files will be moved
+2026-02-25 17:21:50 - FileOrganizer - INFO - Found 6 files to process
+2026-02-25 17:21:50 - FileOrganizer - INFO - [DRY RUN] Would move: archive.zip -> Archives/
+2026-02-25 17:21:50 - FileOrganizer - INFO - [DRY RUN] Would move: photo.jpg -> Images/
+2026-02-25 17:21:50 - FileOrganizer - INFO - [DRY RUN] Would move: report.pdf -> Documents/
+2026-02-25 17:21:50 - FileOrganizer - INFO - [DRY RUN] Would move: script.py -> Code/
+2026-02-25 17:21:50 - FileOrganizer - INFO - [DRY RUN] Would move: video.mp4 -> Videos/
+2026-02-25 17:21:50 - FileOrganizer - INFO - Organization complete: 5 files organized, 0 failed, 1 skipped
+2026-02-25 17:21:55 - FileOrganizer - INFO - Starting file organization in: test_folder
+2026-02-25 17:21:55 - FileOrganizer - INFO - Found 6 files to process
+2026-02-25 17:21:55 - FileOrganizer - INFO - Created category folder: Archives
+2026-02-25 17:21:55 - FileOrganizer - INFO - Moved: archive.zip -> Archives/
+2026-02-25 17:21:55 - FileOrganizer - INFO - Created category folder: Images
+2026-02-25 17:21:55 - FileOrganizer - INFO - Moved: photo.jpg -> Images/
+2026-02-25 17:21:55 - FileOrganizer - INFO - Created category folder: Documents
+2026-02-25 17:21:55 - FileOrganizer - INFO - Moved: report.pdf -> Documents/
+2026-02-25 17:21:55 - FileOrganizer - INFO - Created category folder: Code
+2026-02-25 17:21:55 - FileOrganizer - INFO - Moved: script.py -> Code/
+2026-02-25 17:21:55 - FileOrganizer - INFO - Created category folder: Videos
+2026-02-25 17:21:55 - FileOrganizer - INFO - Moved: video.mp4 -> Videos/
+2026-02-25 17:21:55 - FileOrganizer - INFO - Organization complete: 5 files organized, 0 failed, 1 skipped
+2026-02-25 17:21:55 - FileOrganizer - INFO - Operation log saved to: test_folder\organization_log.json

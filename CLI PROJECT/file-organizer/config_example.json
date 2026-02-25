@@ -1,0 +1,10 @@
+{
+  "Images": [".jpg", ".jpeg", ".png", ".gif", ".bmp", ".svg", ".webp", ".ico", ".tiff"],
+  "Documents": [".pdf", ".doc", ".docx", ".txt", ".xlsx", ".xls", ".ppt", ".pptx", ".odt"],
+  "Videos": [".mp4", ".avi", ".mkv", ".mov", ".wmv", ".flv", ".webm", ".m4v"],
+  "Audio": [".mp3", ".wav", ".aac", ".flac", ".wma", ".ogg", ".m4a", ".opus"],
+  "Archives": [".zip", ".rar", ".7z", ".tar", ".gz", ".bz2", ".xz", ".iso"],
+  "Code": [".py", ".js", ".ts", ".java", ".cpp", ".c", ".h", ".cs", ".rb", ".php", ".go", ".rs", ".html", ".css", ".json", ".xml", ".yaml", ".yml", ".sh", ".bat", ".ps1"],
+  "Executables": [".exe", ".msi", ".app", ".bin", ".com", ".run", ".deb", ".rpm"],
+  "Data": [".csv", ".sql", ".db", ".sqlite", ".json", ".xml", ".yaml"]
+}
